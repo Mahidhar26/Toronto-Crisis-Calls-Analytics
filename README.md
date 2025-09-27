@@ -52,14 +52,6 @@ A Power BI report that unifies 911 and community referral data to track **Crisis
 
 ---
 
-## 🗂️ Repo Structure
-├─ assets/
-│ ├─ tccs_dashboard_overview.png
-│ └─ tccs_kpi_tiles.png
-├─ pbix/
-│ └─ TCCS_Dashboard.pbix # (optional) Power BI file
-├─ data/ # (optional) data extracts or sample CSVs
-└─ README.md
 
 
 ## 📄 License

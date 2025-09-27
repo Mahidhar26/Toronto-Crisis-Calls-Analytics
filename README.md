@@ -8,10 +8,10 @@ A Power BI report that unifies 911 and community referral data to track **Crisis
 ## 📸 Snapshots
 
 ### Dashboard Overview
-![TCCS Dashboard Overview](assets/tccs_dashboard_overview.png)
+![[TCCS Dashboard Overview](https://github.com/Mahidhar26/Toronto-Crisis-Calls-Analytics/blob/main/assets/tccs_overview.JPG))
 
 ### KPI Tiles
-![TCCS KPI Tiles](assets/tccs_kpi_tiles.png)
+![TCCS KPI Tiles](https://github.com/Mahidhar26/Toronto-Crisis-Calls-Analytics/blob/main/assets/tccs_kpis.JPG))
 
 ---
 
